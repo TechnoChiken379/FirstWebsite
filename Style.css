@@ -1,5 +1,5 @@
 body{
-    background-color: #bcbcbc;
+    background-color: #ffffff;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -14,8 +14,9 @@ body{
 #introText {
     margin-top: 2.5%;
     margin-left: 2.5%;
-    width: 474px;
+    width: 330px;
     float: left;
+    text-align: center;
 }
 
 #profilePicture {
@@ -29,19 +30,19 @@ body{
     float: left;
     margin-left: 2.5%;
     margin-top: 2%;
+    clear: both;
 }
 
 #logoMediaGroup {
     float: left;
     width: 414px;
-    margin-left: 2.5%;
+    margin-left: 5%;
     margin-top: 2.5%;
 }
 
 #warThunderImage {
     float: left;
-    margin-left: 2.5%;
-    margin-top: 2.5%;
+    margin-top: 3%;
 }
 
 #memeImage {
@@ -52,4 +53,10 @@ body{
 
 .reset {
     clear: both;
+}
+
+#pageContainer {
+    width: 1150px;
+    margin: 0px auto 0px auto;
+    background-color: #b5b5b5;
 }
