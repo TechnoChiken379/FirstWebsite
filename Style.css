@@ -1,9 +1,10 @@
 body{
     background-color: #ffffff;
     font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
 }
 
-#mainHeading {
+#mainHeading{
     color: #ff0000;
 }
 
@@ -11,7 +12,7 @@ body{
     color: #0055d4;
 }
 
-#introText {
+#introText{
     margin-top: 2.5%;
     margin-left: 2.5%;
     width: 330px;
@@ -19,43 +20,45 @@ body{
     text-align: center;
 }
 
-#profilePicture {
+#profilePicture{
     float: left;
     margin-left: 2.5%;
     margin-top: 2.5%;
+    margin-right: -3%;
 }
 
-#hobbiesList {
+#hobbiesList{
     width: 275px;
     float: left;
     margin-left: 2.5%;
-    margin-top: 2%;
+    margin-top: -2%;
     clear: both;
 }
 
-#logoMediaGroup {
+#logoMediaGroup{
     float: left;
     width: 414px;
     margin-left: 5%;
     margin-top: 2.5%;
 }
 
-#warThunderImage {
+#warThunderImage{
     float: left;
-    margin-top: 3%;
+    margin-top: 2%;
+    margin-left: -4%;
 }
 
-#memeImage {
+#memeImage{
     float: left;
     margin-left: 2.5%;
-    margin-top: 2.5%;
+    margin-top: -4%;
 }
 
-.reset {
+.reset{
     clear: both;
 }
 
-#pageContainer {
+#pageContainer{
     width: 1150px;
     margin: 0px auto 0px auto;
     background-color: #b5b5b5;
